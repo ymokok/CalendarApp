@@ -1,0 +1,51 @@
+#result {
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+}
+table {
+	width: 100%;
+	border: 1px solid #595959;
+	border-collapse: collapse;
+}
+th {
+	border: solid 1px #cbcbcb;
+	background-color: #e6e6e6;
+	color:#000000;
+	text-align: center;
+}
+.thlink {
+	border: solid 1px #dddee2;
+}
+td {
+	border: solid 1px #cbcbcb;
+	height:80px;
+	vertical-align: top;
+}
+.tdlink {
+	border: solid 1px #cbcbcb;
+}
+.calday {
+	display: block;
+	vertical-align: top;
+	text-align: right;
+	padding: 1px;
+	margin-bottom:1px;
+	margin-right:3px;
+	font-size: 16PX;
+}
+.cal {
+	border-radius: 4px;
+	display: block;
+	vertical-align: top;
+	text-align: left;
+	padding: 1px;
+	margin-bottom:1px;
+	font-size: 13PX;
+	background-color:#f5d5d9;
+}
+
+a:link { color:#646464; text-decoration:none }
+a:visited { color:#646464; text-decoration:none }
+a:hover { color:#646464; text-decoration:none }
+a:active { color:#646464; text-decoration:none }
